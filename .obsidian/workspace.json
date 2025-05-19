@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "a1843dd494e2df82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd6448598512ab5",
+        "type": "tabs",
+        "dimension": 49.07532701849346,
+        "children": [
+          {
+            "id": "b5a8242da32d3d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记使用/obsidian使用方法.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "obsidian使用方法"
+            }
+          }
+        ]
+      },
+      {
+        "id": "65838104b02ee1f1",
+        "type": "tabs",
+        "dimension": 38.34009923319802,
+        "children": [
+          {
+            "id": "9b93ee58c432a6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记使用/未命名.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "c47b2171c4cf963d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记使用/obsidian使用方法.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "obsidian使用方法"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b081df028e7e7bc8",
+        "type": "tabs",
+        "dimension": 12.584573748308525,
+        "children": [
+          {
+            "id": "1de4544b0c52f359",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8a837c739fb9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c85848ce381e44c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e4e16033167265d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "228eff2dab22721e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7105a45d23abe6fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "460662da85628107",
+    "type": "split",
+    "children": [
+      {
+        "id": "af663a1ab0023103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01bc7d4026975ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记使用/obsidian使用方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "obsidian使用方法 的反向链接列表"
+            }
+          },
+          {
+            "id": "60e0c61b84ab6c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "d0c61c22ab280b4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e1619564fb73259e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3e4e16033167265d",
+  "lastOpenFiles": [
+    "godot-note/README.md",
+    "godot-note",
+    "未命名.md",
+    "笔记使用/obsidian使用方法.md",
+    "笔记使用/未命名.md",
+    "链接.md",
+    "笔记使用",
+    "创建链接.md",
+    "欢迎.md",
+    "2025-05-19.md"
+  ]
+}
