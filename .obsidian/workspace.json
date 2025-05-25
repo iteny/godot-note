@@ -4,75 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "2dd6448598512ab5",
+        "id": "b270de7bead2face",
         "type": "tabs",
-        "dimension": 49.07532701849346,
         "children": [
           {
-            "id": "b5a8242da32d3d26",
+            "id": "2706c9a0f54d3a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记使用/obsidian使用方法.md",
+                "file": "godot笔记/2D游戏笔记.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "obsidian使用方法"
+              "title": "2D游戏笔记"
             }
           }
         ]
       },
       {
-        "id": "65838104b02ee1f1",
+        "id": "cecd231ece5a936d",
         "type": "tabs",
-        "dimension": 38.34009923319802,
         "children": [
           {
-            "id": "9b93ee58c432a6f5",
+            "id": "929b6714373f09ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记使用/未命名.md",
+                "file": "godot笔记/2D游戏笔记.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "c47b2171c4cf963d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记使用/obsidian使用方法.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "obsidian使用方法"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b081df028e7e7bc8",
-        "type": "tabs",
-        "dimension": 12.584573748308525,
-        "children": [
-          {
-            "id": "1de4544b0c52f359",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "2D游戏笔记"
             }
           }
         ]
@@ -226,12 +192,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e4e16033167265d",
+  "active": "929b6714373f09ed",
   "lastOpenFiles": [
+    "godot笔记/godot-state-charts的platformer演示.md",
+    "godot笔记/2D游戏笔记.md",
+    "笔记使用/obsidian使用方法.md",
+    "fujian/重力应用.md",
+    "image/screenshot-1748171514918.png",
+    "fujian",
+    "新建文件夹",
+    "screenshot-1748171514918.png",
+    "image",
+    "godot笔记",
     "godot-note/README.md",
     "godot-note",
     "未命名.md",
-    "笔记使用/obsidian使用方法.md",
     "笔记使用/未命名.md",
     "链接.md",
     "笔记使用",

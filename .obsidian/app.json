@@ -2,6 +2,8 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "newFileLocation": "root",
-  "newFileFolderPath": ""
+  "newFileLocation": "folder",
+  "newFileFolderPath": "fujian",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "image"
 }
