@@ -6,7 +6,7 @@
       {
         "id": "b270de7bead2face",
         "type": "tabs",
-        "dimension": 56.04693140794224,
+        "dimension": 51.714801444043324,
         "children": [
           {
             "id": "2706c9a0f54d3a70",
@@ -27,7 +27,7 @@
       {
         "id": "cecd231ece5a936d",
         "type": "tabs",
-        "dimension": 43.95306859205776,
+        "dimension": 48.285198555956676,
         "children": [
           {
             "id": "929b6714373f09ed",
@@ -190,15 +190,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "2706c9a0f54d3a70",
   "lastOpenFiles": [
+    "godot笔记/godot-state-charts的platformer演示.md",
     "godot笔记/2D游戏笔记.md",
     "笔记使用/游戏开发工具.md",
-    "godot笔记/godot-state-charts的platformer演示.md",
     "笔记使用/obsidian使用方法.md",
     "fujian/重力应用.md",
     "image/screenshot-1748171514918.png",
