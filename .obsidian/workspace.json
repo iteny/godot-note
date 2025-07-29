@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记使用/游戏开发工具.md",
+                "file": "comfyui/安装.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏开发工具"
+              "title": "安装"
             }
           }
         ]
@@ -42,8 +42,23 @@
               "icon": "lucide-file",
               "title": "游戏开发工具"
             }
+          },
+          {
+            "id": "cb452f407c0e0e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comfyui/安装.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "安装"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +208,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2706c9a0f54d3a70",
+  "active": "cb452f407c0e0e4a",
   "lastOpenFiles": [
-    "笔记使用/obsidian使用方法.md",
     "笔记使用/游戏开发工具.md",
+    "comfyui/安装.md",
+    "comfyui",
+    "笔记使用/obsidian使用方法.md",
     "笔记使用/未命名.md",
     "godot笔记/godot-state-charts的platformer演示.md",
     "godot笔记/2D游戏笔记.md",
